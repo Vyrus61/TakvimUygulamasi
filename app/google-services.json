@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "611113729814",
+    "firebase_url": "https://firerectakvim-aa980.firebaseio.com",
+    "project_id": "firerectakvim-aa980",
+    "storage_bucket": "firerectakvim-aa980.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611113729814:android:0ed3719864b0d5c54d1a37",
+        "android_client_info": {
+          "package_name": "com.example.firerectakvim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611113729814-ce8glp0lqe8h4ub7meh9bu0mct7vg4i6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firerectakvim",
+            "certificate_hash": "4ef5cd459936f0fc28a5efa7f7e8c4441f34cf98"
+          }
+        },
+        {
+          "client_id": "611113729814-p0p4rtrs8u57hvttjpgbk83a8tvqp3nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuilO__A-_h2F3lPKlWVXE7ZO1AcRlajA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611113729814-p0p4rtrs8u57hvttjpgbk83a8tvqp3nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
